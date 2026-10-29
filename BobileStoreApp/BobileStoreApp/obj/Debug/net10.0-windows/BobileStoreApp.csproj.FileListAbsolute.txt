@@ -1,0 +1,17 @@
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\bin\Debug\net10.0-windows\BobileStoreApp.exe
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\bin\Debug\net10.0-windows\BobileStoreApp.deps.json
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\bin\Debug\net10.0-windows\BobileStoreApp.runtimeconfig.json
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\bin\Debug\net10.0-windows\BobileStoreApp.dll
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\bin\Debug\net10.0-windows\BobileStoreApp.pdb
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\obj\Debug\net10.0-windows\BobileStoreApp.Form1.resources
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\obj\Debug\net10.0-windows\BobileStoreApp.csproj.GenerateResource.cache
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\obj\Debug\net10.0-windows\BobileStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\obj\Debug\net10.0-windows\BobileStoreApp.AssemblyInfoInputs.cache
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\obj\Debug\net10.0-windows\BobileStoreApp.AssemblyInfo.cs
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\obj\Debug\net10.0-windows\BobileStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\obj\Debug\net10.0-windows\BobileStoreApp.dll
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\obj\Debug\net10.0-windows\refint\BobileStoreApp.dll
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\obj\Debug\net10.0-windows\BobileStoreApp.pdb
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\obj\Debug\net10.0-windows\BobileStoreApp.genruntimeconfig.cache
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\obj\Debug\net10.0-windows\ref\BobileStoreApp.dll
+C:\Users\vanwy\source\repos\BobileStoreApp\BobileStoreApp\obj\Debug\net10.0-windows\BobileSt.EE95244E.Up2Date
